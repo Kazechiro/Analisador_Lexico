@@ -55,8 +55,6 @@ Este projeto é um **analisador léxico** desenvolvido em Python, com uma interf
 
 ---
 
-## Desenvolvedor
-
 ### Desenvolvido por: **Kazechiro**
 
 [**LinkedIn**](https://www.linkedin.com/in/kaio-barbosa-5aa022299/) | [**Github**](https://github.com/Kazechiro)
